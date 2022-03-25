@@ -1,25 +1,25 @@
 Circuit: * D:\github-stuff\STM32-Li-ion-charger-dischager-LCD\spice_simulation\Internal_Resistance_AC_Method.asc
 
-WARNING: Node N010 is floating.
+WARNING: Node N013 is floating.
 
-WARNING: Less than two connections to node N010.  This node is used by C2.
+WARNING: Less than two connections to node N013.  This node is used by C2.
 Direct Newton iteration for .op point succeeded.
 
-Date: Fri Mar 25 00:02:59 2022
-Total elapsed time: 2.617 seconds.
+Date: Fri Mar 25 00:47:03 2022
+Total elapsed time: 3.667 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 200371
-traniter = 200331
+totiter = 200305
+traniter = 200265
 tranpoints = 100018
 accept = 100018
 rejected = 0
-matrix size = 20
-fillins = 3
+matrix size = 26
+fillins = 11
 solver = Normal
-Thread vector: 11.4/6.6[2] 1.5/2.2[1] 1.2/2.2[1] 0.1/1.4[1]  2592/500
-Matrix Compiler1: 1.07 KB object code size  0.3/0.1/[0.1]
-Matrix Compiler2: 1.68 KB object code size  0.2/0.3/[0.2]
+Thread vector: 9.7/6.2[3] 2.1/2.6[1] 1.7/2.1[1] 0.1/1.4[1]  2592/500
+Matrix Compiler1: 1.81 KB object code size  0.4/0.3/[0.2]
+Matrix Compiler2: 2.45 KB object code size  0.3/0.4/[0.2]
 
