@@ -4594,6 +4594,9 @@
     (path "/9ba7dc72-30ab-459c-b7f7-117aa274a468/f7cedafe-7303-4f36-8f28-bdd236c79276"
       (reference "J10") (unit 1) (value "Conn_01x02") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical")
     )
+    (path "/9ba7dc72-30ab-459c-b7f7-117aa274a468/f868776f-0ad2-4ffe-b528-607ce6660028"
+      (reference "J?") (unit 1) (value "Conn_01x02") (footprint "")
+    )
     (path "/9ba7dc72-30ab-459c-b7f7-117aa274a468/ac190a3a-6b15-4939-91c5-9ddbc219b6bc"
       (reference "JP1") (unit 1) (value "Jumper_2_Open") (footprint "")
     )
@@ -4608,9 +4611,6 @@
     )
     (path "/9ba7dc72-30ab-459c-b7f7-117aa274a468/86dcc749-4960-4cda-96df-b3b730494f76"
       (reference "Q2") (unit 1) (value "Q_NMOS_DGS") (footprint "")
-    )
-    (path "/9ba7dc72-30ab-459c-b7f7-117aa274a468/bf222d56-1f1f-4c98-9264-261e549c79bf"
-      (reference "Q?") (unit 1) (value "Q_PMOS_DGS") (footprint "")
     )
     (path "/75253024-d0e0-4569-83d5-ffbe1053d6af"
       (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -4739,6 +4739,12 @@
       (reference "SW3") (unit 1) (value "RA12131100") (footprint "")
     )
     (path "/9adb9b15-7476-4bb1-8a2c-272903959030"
+      (reference "SW?") (unit 1) (value "SW_SPDT") (footprint "")
+    )
+    (path "/9ba7dc72-30ab-459c-b7f7-117aa274a468/c76ccc2a-05df-4450-a3c4-b157feaea647"
+      (reference "SW?") (unit 1) (value "SW_SPDT") (footprint "")
+    )
+    (path "/9ba7dc72-30ab-459c-b7f7-117aa274a468/eb3288b1-e12f-4b65-a53f-342dd0684d3b"
       (reference "SW?") (unit 1) (value "SW_SPDT") (footprint "")
     )
     (path "/0ba3fcf8-07bd-443d-be28-f69a4ad80df4"
