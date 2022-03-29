@@ -435,6 +435,14 @@
     [
       "9ba7dc72-30ab-459c-b7f7-117aa274a468",
       "BattDischarger"
+    ],
+    [
+      "dcc59a2d-0f7e-4a64-a8b5-fe2fd2ce2d5b",
+      "ComponentTester"
+    ],
+    [
+      "b23d3270-e11f-49f2-b036-25ff96772da9",
+      "Display&SDcard"
     ]
   ],
   "text_variables": {}
