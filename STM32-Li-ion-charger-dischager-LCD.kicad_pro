@@ -443,6 +443,14 @@
     [
       "b23d3270-e11f-49f2-b036-25ff96772da9",
       "Display&SDcard"
+    ],
+    [
+      "b352d21a-9d0c-42da-bdfe-356afec9821e",
+      "FanControl"
+    ],
+    [
+      "1730d895-3213-45bc-a70e-97bb1fe4d61e",
+      "EthernetLAN"
     ]
   ],
   "text_variables": {}

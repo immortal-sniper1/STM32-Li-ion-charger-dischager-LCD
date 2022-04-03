@@ -1,23 +1,25 @@
-Circuit: * D:\github-stuff\PCB_test_project_02_STM32_1st\spice_simulation\charge_pump.asc
+Circuit: * D:\github-stuff\STM32-Li-ion-charger-dischager-LCD\spice_simulation\charge_pump.asc
 
+Limiting rise time of source v3 to 5e-008
+Limiting fall time of source v3 to 5e-008
 Limiting rise time of source v2 to 5e-008
 Limiting fall time of source v2 to 5e-008
 .OP point found by inspection.
 
-Date: Thu Mar 03 23:39:32 2022
-Total elapsed time: 3.767 seconds.
+Date: Sun Apr 03 01:09:37 2022
+Total elapsed time: 6.109 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 1788877
-traniter = 1788877
-tranpoints = 846672
-accept = 664515
-rejected = 182157
-matrix size = 8
+totiter = 2351707
+traniter = 2351707
+tranpoints = 1050333
+accept = 780349
+rejected = 269984
+matrix size = 14
 fillins = 0
 solver = Normal
-Matrix Compiler1: 282 bytes object code size  0.1/0.1/[0.1]
-Matrix Compiler2: 514 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler1: 528 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 892 bytes object code size  0.1/0.1/[0.1]
 
