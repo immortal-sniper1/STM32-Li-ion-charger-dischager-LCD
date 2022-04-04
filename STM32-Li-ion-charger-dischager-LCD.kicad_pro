@@ -450,7 +450,7 @@
     ],
     [
       "1730d895-3213-45bc-a70e-97bb1fe4d61e",
-      "EthernetLAN"
+      "EthernetLAN+PoE"
     ]
   ],
   "text_variables": {}
