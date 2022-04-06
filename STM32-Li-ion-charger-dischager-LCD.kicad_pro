@@ -451,6 +451,10 @@
     [
       "1730d895-3213-45bc-a70e-97bb1fe4d61e",
       "EthernetLAN+PoE"
+    ],
+    [
+      "9ca66431-4ae9-450d-a902-4ddfe318c744",
+      "multiplexing+gpio_extenders"
     ]
   ],
   "text_variables": {}
