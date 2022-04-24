@@ -1624,6 +1624,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 8dce66f0-86b7-4a45-b2fe-41eb6fc9532a)
   )
+  (wire (pts (xy 111.76 93.345) (xy 113.665 93.345))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 9159aa7e-fad0-402c-9776-df53dea4a466)
+  )
   (wire (pts (xy 271.145 102.87) (xy 265.43 102.87))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 919a6747-f2eb-467c-afdc-c7850bd858e5)
@@ -1715,6 +1719,10 @@
   (wire (pts (xy 66.04 31.115) (xy 52.07 31.115))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid b692d001-192e-4f6c-ac62-2b7cdef5607a)
+  )
+  (wire (pts (xy 111.76 90.805) (xy 113.665 90.805))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid b72fb501-dba8-4915-b262-200cf96aaf0f)
   )
   (wire (pts (xy 111.76 78.105) (xy 113.665 78.105))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -2010,6 +2018,13 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
+  (global_label "TOUCH_X" (shape input) (at 113.665 90.805 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 1d06ed06-5865-4bc1-8800-660cd3551932)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 124.4843 90.8844 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
   (global_label "SPI_CLK" (shape input) (at 52.07 170.815 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 1d723395-7676-42e3-9857-9794988aa5a9)
@@ -2022,6 +2037,13 @@
     (uuid 27ecf479-3add-4048-9299-919b5652c4a3)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at -32.2883 118.0306 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+  (global_label "TOUCH_Y" (shape input) (at 113.665 93.345 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 284132f2-8c49-491a-9b8e-f6cffd426317)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 124.3633 93.4244 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
   (global_label "SPI_MOSI" (shape input) (at 52.07 165.735 180) (fields_autoplaced)
@@ -4212,6 +4234,9 @@
     (path "/9ca66431-4ae9-450d-a902-4ddfe318c744/c09d6edc-8d27-45fc-afce-eb717853fc44"
       (reference "IC4") (unit 1) (value "PEC12R-4230F-S0024") (footprint "PEC12R4230FS0024")
     )
+    (path "/9ca66431-4ae9-450d-a902-4ddfe318c744/1b0dc7d9-bdd8-4cc3-b800-a9d936cb284f"
+      (reference "IC?") (unit 1) (value "XRA1203IG24TR-F") (footprint "SOP65P640X120-24N")
+    )
     (path "/9ba7dc72-30ab-459c-b7f7-117aa274a468/f868776f-0ad2-4ffe-b528-607ce6660028"
       (reference "J1") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
@@ -4617,11 +4642,11 @@
     (path "/dcc59a2d-0f7e-4a64-a8b5-fe2fd2ce2d5b/d474335c-fa85-49e3-b3cf-fd45cd6c64a4"
       (reference "U11") (unit 1) (value "OPA188xxD") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
-    (path "/9ca66431-4ae9-450d-a902-4ddfe318c744/4c726e0f-1585-43bc-ab71-e97533286e72"
-      (reference "U12") (unit 1) (value "CD4052B") (footprint "")
+    (path "/9ca66431-4ae9-450d-a902-4ddfe318c744/6a9a2704-c264-456d-91fc-0c962ac61b47"
+      (reference "U?") (unit 1) (value "MC74VHC4052DR2G") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
-    (path "/9ca66431-4ae9-450d-a902-4ddfe318c744/a8a0c780-e374-4b11-9834-fa797484e09e"
-      (reference "U13") (unit 1) (value "CD4052B") (footprint "")
+    (path "/9ca66431-4ae9-450d-a902-4ddfe318c744/71ebeb77-bc54-43d0-bad6-45405931d085"
+      (reference "U?") (unit 1) (value "MC74VHC4052DR2G") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/4849788e-5e45-4118-835e-f9b9ea5fb3c9"
       (reference "Y1") (unit 1) (value "32k") (footprint "")
