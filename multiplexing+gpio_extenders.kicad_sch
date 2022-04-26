@@ -2,7 +2,7 @@
 
   (uuid 1c37d510-6e90-4764-afae-b68606f1d2b4)
 
-  (paper "A4")
+  (paper "A3")
 
   (lib_symbols
     (symbol "My_custom_lib:MC74VHC4052DR2G" (in_bom yes) (on_board yes)

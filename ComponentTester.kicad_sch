@@ -2,7 +2,7 @@
 
   (uuid 33191fe4-aa2f-4bc9-af4d-9f62fb6a6c7e)
 
-  (paper "A4")
+  (paper "A3")
 
   (lib_symbols
     (symbol "Amplifier_Operational:OPA188xxD" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)

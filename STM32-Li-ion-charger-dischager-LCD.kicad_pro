@@ -455,6 +455,14 @@
     [
       "9ca66431-4ae9-450d-a902-4ddfe318c744",
       "multiplexing+gpio_extenders"
+    ],
+    [
+      "d5a3d2a0-8555-4954-9518-35de13d1b786",
+      "buck"
+    ],
+    [
+      "c7468481-7a51-45fb-9470-a181e730bfe1",
+      "RTC"
     ]
   ],
   "text_variables": {}

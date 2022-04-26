@@ -2,7 +2,7 @@
 
   (uuid abfbce59-48d8-4703-9026-e780b864ee26)
 
-  (paper "A4")
+  (paper "A3")
 
   (lib_symbols
     (symbol "Amplifier_Operational:OP179GRT" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)

@@ -2,7 +2,7 @@
 
   (uuid 8b7c9117-b274-44c1-88db-346ef3c346c5)
 
-  (paper "A4")
+  (paper "A3")
 
   (lib_symbols
     (symbol "Connector_Generic:Conn_02x07_Odd_Even" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
